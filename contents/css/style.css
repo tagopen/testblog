@@ -97,7 +97,8 @@ header{text-align: center;background: #fff;}
 .gallery-page{}
 .archive-page{}
 .contact-page{}
-
+.links{width: 320px;text-align: center;margin: 0 auto;}
+.links a{font-size: 24px;padding: 25px 10px;display: inline-block;}
 #container {}
 #container .wrap-container{}
 
@@ -140,6 +141,7 @@ header{text-align: center;background: #fff;}
 #main-content .wrap-content{padding: 50px 0;}
 
 .gallery-page article{background: #f7f7f7;}
+.single-post .article-heading{display: none;}
 .single-post.success{text-align: center;color: green;font-size: 24px;}
 .single-post .wrap-post, .comments-are {background: #f7f7f7;padding:30px; position: relative;}
 .single-post .wrap-post {margin-bottom: 50px;}
